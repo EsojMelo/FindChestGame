@@ -1,4 +1,4 @@
-# THIS README is just to desafio7.c and desafio7.h
+# FIND THE CHEST GAME
 
 - These programs were a game called Find the Treasure.
 - Basically the players have to get the treasure and rise the score.
